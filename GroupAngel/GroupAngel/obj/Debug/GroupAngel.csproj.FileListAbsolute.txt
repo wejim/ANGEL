@@ -1,0 +1,15 @@
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\bin\Debug\GroupAngel.exe.config
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\bin\Debug\GroupAngel.exe
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\bin\Debug\GroupAngel.pdb
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.csproj.AssemblyReference.cache
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.Form1.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.Properties.Resources.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.csproj.GenerateResource.cache
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.csproj.CoreCompileInputs.cache
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.exe
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.pdb
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.frmload.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.frmadmin.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.frmemployee.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.frmhr.resources
+C:\Users\LOELJEN\source\repos\GroupAngel\GroupAngel\obj\Debug\GroupAngel.Payroll.resources
